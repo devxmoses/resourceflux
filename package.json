@@ -1,0 +1,20 @@
+{
+  "name": "resourceflux",
+  "version": "1.0.0",
+  "description": "A B2B Resource Management System SAAS",
+  "homepage": "https://github.com/devxmoses/resourceflux",
+  "bugs": {
+    "url": "https://github.com/devxmoses/resourceflux/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devxmoses/resourceflux.git"
+  },
+  "license": "ISC",
+  "author": "devxmoses",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

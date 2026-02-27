@@ -1,0 +1,17 @@
+bcrypt 
+cookie-parser 
+cors 
+dotenv 
+express 
+jsonwebtoken 
+mongoose 
+resend 
+zod
+npm install -D 
+@types/bcrypt 
+@types/cookie-parser 
+@types/cors 
+@types/express 
+@types/jsonwebtoken 
+ts-node-dev 
+typescript
