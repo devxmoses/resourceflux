@@ -1,7 +1,7 @@
 {
   "name": "resourceflux",
   "version": "1.0.0",
-  "description": "A B2B Resource Management System SAAS",
+  "description": "Resource management platform",
   "homepage": "https://github.com/devxmoses/resourceflux",
   "bugs": {
     "url": "https://github.com/devxmoses/resourceflux/issues"
